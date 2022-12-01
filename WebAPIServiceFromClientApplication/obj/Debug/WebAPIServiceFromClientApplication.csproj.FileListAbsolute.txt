@@ -1,0 +1,11 @@
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\bin\Debug\WebAPIServiceFromClientApplication.exe.config
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\bin\Debug\WebAPIServiceFromClientApplication.exe
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\bin\Debug\WebAPIServiceFromClientApplication.pdb
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\obj\Debug\WebAPIServiceFromClientApplication.csproj.AssemblyReference.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\obj\Debug\WebAPIServiceFromClientApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\obj\Debug\WebAPIServiceFromClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\obj\Debug\WebAPIServiceFromClientApplication.csproj.CopyComplete
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\obj\Debug\WebAPIServiceFromClientApplication.exe
+C:\Users\noorj\OneDrive\Desktop\.net course\WebAPIServiceFromClientApplication\WebAPIServiceFromClientApplication\obj\Debug\WebAPIServiceFromClientApplication.pdb
